@@ -46,7 +46,7 @@ namespace _Mathematic.MultDiv.MultExample
         private void SpeedUpdate()
         {
             SpeedTransform.localPosition += Vector3.right * (Multiplier * Time.deltaTime);
-            if(SpeedTransform.localPosition.x > 5)
+            if(Math.Abs(SpeedTransform.localPosition.x) > 5)
                 SpeedTransform.localPosition = Vector3.zero;
         }
 
@@ -59,7 +59,7 @@ namespace _Mathematic.MultDiv.MultExample
         private void TimeUpdate()
         {
             TimeTransform.localPosition += Vector3.right * (Time.deltaTime * Multiplier);
-            if(TimeTransform.localPosition.x > 5)
+            if(Math.Abs(TimeTransform.localPosition.x) > 5)
                 TimeTransform.localPosition = Vector3.zero;
         }
     }

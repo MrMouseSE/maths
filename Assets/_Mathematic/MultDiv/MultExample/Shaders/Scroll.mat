@@ -57,8 +57,8 @@ Material:
     - _Multiply: 3.39
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SpeedMultiply: 1
-    - _TillingMult: 6.36
-    - _value: -1.85
+    - _SpeedMultiply: 2.13
+    - _TillingMult: 6.58
+    - _value: -0.77
     m_Colors: []
   m_BuildTextureStacks: []

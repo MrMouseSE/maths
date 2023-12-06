@@ -41,8 +41,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Bright: -0.36
-    - _Contrast: 2.05
+    - _Bright: 0
+    - _Contrast: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []

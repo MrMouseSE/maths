@@ -41,7 +41,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RECALCNORMALS: 1
-    - _ScaleMult: 1.74
+    - _ScaleMult: 11.81
     m_Colors: []
   m_BuildTextureStacks: []
 --- !u!114 &2706801100516707428

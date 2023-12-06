@@ -44,11 +44,11 @@ Material:
     - _BorderValue: 0.53
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Val: 0.21
+    - _Val: 0.51
     m_Colors:
     - _Color: {r: 0.7921569, g: 0.070588216, b: 0.16503288, a: 0}
-    - _ColorOne: {r: 0.23275988, g: 0.990566, b: 0, a: 0}
-    - _ColorTwo: {r: 1, g: 0, b: 0, a: 0}
+    - _ColorOne: {r: 0.99215686, g: 0.9351985, b: 0, a: 0}
+    - _ColorTwo: {r: 0, g: 0.42763186, b: 1, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &421779011735665684
 MonoBehaviour:
