@@ -56,7 +56,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ROUND: 1
-    - _RoundBorder: 0
+    - _RoundBorder: 2.83
     m_Colors:
-    - _Border: {r: 1.34, g: 4.62, b: 0, a: 0}
+    - _Border: {r: 13.2, g: 8.2, b: 0, a: 0}
   m_BuildTextureStacks: []

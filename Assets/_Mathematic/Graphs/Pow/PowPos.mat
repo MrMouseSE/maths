@@ -52,10 +52,10 @@ Material:
     m_Ints: []
     m_Floats:
     - _CLAMPED: 1
-    - _Power: 4.36
+    - _Power: 2.7
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RadiusMult: 0.139
-    - _SubValue: 13.15
+    - _RadiusMult: 0.3
+    - _SubValue: 0
     m_Colors: []
   m_BuildTextureStacks: []

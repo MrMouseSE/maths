@@ -14,7 +14,7 @@ namespace _Mathematic.Graphs.Abs
             foreach (var o in Objects)
             {
                 var pos = o.position;
-                pos.y = Mathf.Abs(Mathf.Abs(pos.x + AddVal)+SecondAddVal);
+                pos.y = Mathf.Abs(1-Mathf.Abs(Mathf.Abs(pos.x + AddVal)+SecondAddVal));
                 o.position = pos;
             }
         }

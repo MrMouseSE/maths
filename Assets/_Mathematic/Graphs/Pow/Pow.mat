@@ -53,6 +53,6 @@ Material:
     - _Power: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RadiusMult: 0.1
+    - _RadiusMult: 0.24
     m_Colors: []
   m_BuildTextureStacks: []
